@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jwawerukinyua-cell.github.io/thequespot/sitemap.xml
